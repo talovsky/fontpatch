@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/DetachHead/basedpyright/main/packages/pyright-internal/src/config.schema.json",
+  "include": ["src"],
+  "typeCheckingMode": "standard",
+  "reportMissingImports": "none",
+  "reportMissingTypeStubs": "none",
+  "reportAny": "none",
+  "reportUnknownArgumentType": "none",
+  "reportUnknownMemberType": "none",
+  "reportUnknownParameterType": "none",
+  "reportUnknownVariableType": "none",
+  "reportAttributeAccessIssue": "none",
+  "reportOptionalSubscript": "none",
+  "reportOperatorIssue": "none",
+  "reportPossiblyUnboundVariable": "none",
+  "reportUnusedCallResult": "none"
+}
